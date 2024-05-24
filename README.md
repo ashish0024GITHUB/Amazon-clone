@@ -1,2 +1,2 @@
 # Amazon-clone
-Amazon clone with HTML, CSS and JS
+https://ash24.netlify.app/
